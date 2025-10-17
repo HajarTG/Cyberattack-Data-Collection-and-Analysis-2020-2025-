@@ -1,8 +1,8 @@
-#  Cyberattack Data Collection and Analysis (2020-2025)
+#  Cyberattack Data Collection and Analysis (2015-2025)
 
 ##  Project Overview
 
-**Objective:** Collect and analyze monthly data on cyberattacks from 2020 to 2025, focusing on:
+**Objective:** Collect and analyze monthly data on cyberattacks from 2015 to 2025, focusing on:
 
 - **Affected devices or systems** (IoT, Industrial, SCADA, PLC)
 - **Number of incidents** per month/year
@@ -29,7 +29,7 @@
 - **AbuseIPDB** - Malicious IP reports
 - **VirusTotal** - Malware indicators
 - **Censys** - Network infrastructure data
-- **Historical Data** - 2020-2024 incidents (simulated)
+- **Historical Data** - 2015-2024 incidents (simulated)
 
 ##  Project Structure
 
@@ -38,13 +38,13 @@ security/
 ├── README.md
 ├── requirements.txt
 ├── .env (for API keys)
-├── cyberattack_analysis_2020_2025.ipynb
-├── cyberattacks_2020_2025_complete.csv
-├── cyberattacks_report_2020_2025.txt
-├── executive_summary_2020_2025.txt
-├── yearly_statistics_2020_2025.csv
-├── top_threats_2020_2025.csv
-└── top_devices_2020_2025.csv
+├── cyberattack_analysis_2015_2025.ipynb
+├── cyberattacks_2015_2025_complete.csv
+├── cyberattacks_report_2015_2025.txt
+├── executive_summary_2015_2025.txt
+├── yearly_statistics_2015_2025.csv
+├── top_threats_2015_2025.csv
+└── top_devices_2015_2025.csv
 ```
 
 ##  Installation
@@ -68,19 +68,19 @@ security/
 
 1. **Open the Jupyter notebook**
    ```bash
-   jupyter notebook cyberattack_analysis_2020_2025.ipynb
+   jupyter notebook cyberattack_analysis_2015_2025.ipynb
    ```
 
 2. **Run all cells** to generate the complete analysis
 
 3. **View generated files**:
-   - `cyberattacks_2020_2025_complete.csv` - Complete dataset
-   - `cyberattacks_report_2020_2025.txt` - Detailed report
-   - `executive_summary_2020_2025.txt` - Executive summary
+   - `cyberattacks_2015_2025_complete.csv` - Complete dataset
+   - `cyberattacks_report_2015_2025.txt` - Detailed report
+   - `executive_summary_2015_2025.txt` - Executive summary
 
 ##  Features
 
-- **Historical Data Generation**: Realistic cyberattack data for 2020-2025
+- **Historical Data Generation**: Realistic cyberattack data for 2015-2025
 - **Temporal Analysis**: Monthly and yearly trends
 - **Financial Impact**: Cost analysis in millions USD
 - **Interactive Visualizations**: Plotly charts and dashboards
@@ -140,13 +140,14 @@ security/
 
 ##  Generated Files
 
-- `cyberattacks_2020_2025_complete.csv` - Complete dataset (2000+ incidents)
-- `cyberattacks_report_2020_2025.txt` - Comprehensive analysis report
-- `executive_summary_2020_2025.txt` - Executive summary
-- `yearly_statistics_2020_2025.csv` - Annual statistics
-- `top_threats_2020_2025.csv` - Top 20 threat types
-- `top_devices_2020_2025.csv` - Most targeted devices
-- 
+- `cyberattacks_2015_2025_complete.csv` - Complete dataset (3000+ incidents)
+- `cyberattacks_report_2015_2025.txt` - Comprehensive analysis report
+- `executive_summary_2015_2025.txt` - Executive summary
+- `yearly_statistics_2015_2025.csv` - Annual statistics
+- `top_threats_2015_2025.csv` - Top 20 threat types
+- `top_devices_2015_2025.csv` - Most targeted devices
+
+
 
 ##  Creator
 - Hajar Taghi — Big Data & AI Engineering Student, ENSA Tetouan
