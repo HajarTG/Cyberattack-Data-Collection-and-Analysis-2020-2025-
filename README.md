@@ -146,5 +146,9 @@ security/
 - `yearly_statistics_2020_2025.csv` - Annual statistics
 - `top_threats_2020_2025.csv` - Top 20 threat types
 - `top_devices_2020_2025.csv` - Most targeted devices
+- 
+
+##  Creator
+- Hajar Taghi — Big Data & AI Engineering Student, ENSA Tetouan
 
 
